@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Your description">
+    <meta name="author" content="James Sullivan">
 
     <!-- Le styles -->
     <link href="/static/css/bootstrap.min.css" rel="stylesheet">
@@ -30,6 +30,7 @@
       <div role="main">
         <div class="row">
           <div class="col-lg-8 col-offset-2">
+            Hello World! 
           </div>
         </div><!-- end row -->   
       </div><!-- end main -->
@@ -40,7 +41,7 @@
     <footer>
       <small>
         <div class="footer-nav">
-          Copyright LOL
+          Copyright 2013 Monsters Inc.
         </div>
       </small>
     </footer>
